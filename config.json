@@ -1,0 +1,7 @@
+{
+    "unreal_bridge_url": "http://127.0.0.1:8091",
+    "default_terrain_size": 3,
+    "default_horror_intensity": "extreme",
+    "auto_save": true,
+    "log_level": "info"
+}
