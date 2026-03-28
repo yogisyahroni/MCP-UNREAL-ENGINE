@@ -1,0 +1,42 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "MCP Horror Bridge",
+    "Description": "Model Context Protocol bridge for Unreal Engine Horror Game Development",
+    "Category": "AI",
+    "CreatedBy": "Your Name",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "MCPHorrorBridge",
+            "Type": "Editor",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "Plugins": [
+        {
+            "Name": "HttpServer",
+            "Enabled": true
+        },
+        {
+            "Name": "PCG",
+            "Enabled": true
+        },
+        {
+            "Name": "MotionWarping",
+            "Enabled": true
+        },
+        {
+            "Name": "MetaSounds",
+            "Enabled": true
+        }
+    ]
+}
