@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "unreal_horror": {
+            "command": "python",
+            "args": [
+                "C:\\Path\\To\\unreal_horror_mcp_server.py"
+            ],
+            "env": {
+                "UNREAL_BRIDGE_URL": "http://127.0.0.1:8091",
+                "PYTHONIOENCODING": "utf-8"
+            }
+        }
+    }
+}
